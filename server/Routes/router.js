@@ -45,6 +45,7 @@ router.get("/getusers",(req,res)=>{
         if(err){
             res.status(422).json("nodata available");
         }else{
+            console.log(result);
             res.status(201).json(result);
         }
     })
