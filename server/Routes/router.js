@@ -97,7 +97,9 @@ router.patch("/updateuser/:id",(req,res)=>{
         if(err){
             res.status(422).json({message:"error"});
         }else{
+            console.log(result);
             res.status(201).json(result);
+            
         }
     })
 });
