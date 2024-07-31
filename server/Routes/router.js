@@ -43,7 +43,7 @@ router.get("/getusers",(req,res)=>{
 
     conn.query("SELECT * FROM users",(err,result)=>{
         if(err){
-            res.status(422).json("nodata available");
+            res.status(422).json("nodata available here");
         }else{
             console.log(result);
             res.status(201).json(result);
