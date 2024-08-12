@@ -9,7 +9,7 @@ const router=require("./Routes/router");
 const port=8001;
 
 app.get("/",(req,res)=>{
-    res.send("server started")
+    res.send("server start")
 });
 
 //middle wire
