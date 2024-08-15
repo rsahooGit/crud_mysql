@@ -1,0 +1,1 @@
+ 2jsXghr client/src/components/Details.js

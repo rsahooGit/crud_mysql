@@ -1,6 +1,6 @@
-projectKey=prj3
+projectKey=sonarproj7
 serverUrl=http://localhost:9000
 serverVersion=10.5.1.90531
-dashboardUrl=http://localhost:9000/dashboard?id=prj3
-ceTaskId=4dab5ca5-14f9-403b-a2ee-925d9452861a
-ceTaskUrl=http://localhost:9000/api/ce/task?id=4dab5ca5-14f9-403b-a2ee-925d9452861a
+dashboardUrl=http://localhost:9000/dashboard?id=sonarproj7
+ceTaskId=60dcb746-4668-448a-8e70-ad82ada8d002
+ceTaskUrl=http://localhost:9000/api/ce/task?id=60dcb746-4668-448a-8e70-ad82ada8d002
